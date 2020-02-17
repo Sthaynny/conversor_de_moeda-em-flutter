@@ -42,7 +42,7 @@ Conversor de Moedas
 
 Technologies used in the development of the project:
 
-- [Flutter](hhttps://flutter.dev/)
+- [Flutter](https://flutter.dev/)
 - [Github](https://github.com)
 - [Emoji](https://gist.github.com/rxaviers/7360908)
 
