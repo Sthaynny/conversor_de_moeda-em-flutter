@@ -1,5 +1,5 @@
 <h1 align="center">
-<img alt="" title="" src="https://image.flaticon.com/icons/svg/1949/1949596.svg" width="" />
+<img alt="" title="" src="https://image.flaticon.com/icons/svg/1949/1949596.svg" width="100" /><br>
 Conversor de Moedas
   <!-- trocar: 'você pode colocar uma imagem (logo) que represente seu projeto (visualmente) -->
 </h1>
