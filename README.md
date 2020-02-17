@@ -43,12 +43,13 @@ Conversor de Moedas
 Technologies used in the development of the project:
 
 - [Flutter](https://flutter.dev/)
+- [Dart](https://dart.dev/)
 - [Github](https://github.com)
 - [Emoji](https://gist.github.com/rxaviers/7360908)
 
 ## 💻 Projeto
 
-Projeto para aprendizado que viza a converção de moeda real, euro e dolar utilizando uma api.
+Projeto para aprendizado pessoal, tem como principio a conversão entre as moedas real , euro e dolar.
 
 ## 🤔 Como contribuir
 
