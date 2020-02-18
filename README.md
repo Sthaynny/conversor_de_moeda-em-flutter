@@ -8,21 +8,16 @@ Conversor de Moedas
 
 <p align="center">
   <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Sthaynny/conversor_de_moeda-em-flutter">
-  <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
-
+  
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/Sthaynny/conversor_de_moeda-em-flutter">
-  <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
+
 
   <a href="https://github.com/Sthaynny/conversor_de_moeda-em-flutter/commits/master">
-  <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Sthaynny/conversor_de_moeda-em-flutter">
-     <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
   </a>
 
   <a href="https://github.com/Sthaynny/conversor_de_moeda-em-flutter">
-   <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
     <img alt="Repository issues" src="https://img.shields.io/github/issues/Sthaynny/conversor_de_moeda-em-flutter">
-     <!-- trocar: 'rlocatelli9/template-README' pelo caminho do seu respositório -->
 
   </a>
 
